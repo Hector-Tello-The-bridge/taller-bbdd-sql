@@ -13,7 +13,7 @@
 | Teoría | Contenido                                                           |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | 01 | [Teoría SQL](./Teoria/BBDD_SQL_teoría.pdf)|
-| 02 | [Relacionales](./Teoria/ejemplo_relacional.md)|
+| 02 | [Ejemplo Base de datos relacional](./Teoria/ejemplo_relacional.md)|
 | 03 | [Normalización](./Teoria/Normalizacion.md)|
 | 04 | [Queries Avanzadas](./Teoria/AdvancedQueries.md)|
 | 05 | [Joins](./Teoria/Joins.md)|
