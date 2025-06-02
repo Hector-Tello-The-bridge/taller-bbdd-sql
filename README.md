@@ -6,7 +6,7 @@
 
 ---
 
-# Módulo 0 - Fundamentos
+# TALLER BBDD - SQL
 
 ## TEORÍA
 
