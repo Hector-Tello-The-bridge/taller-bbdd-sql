@@ -8,20 +8,26 @@
 
 # Módulo 0 - Fundamentos
 
-## JS
+## TEORÍA
 
 | Teoría | Contenido                                                           |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| TEORIA - PDF | [SQL](./Teoria/BBDD_SQL_teoría.pdf)|
-| EJEMPLO  BASES DE DATOS RELACIONALES | [Relacionales](./Teoria/ejemplo_relacional.md)|
-| TEORIA | [SQL](./Teoria/Normalizacion.md)|
+| 01 | [Teoría SQL](./Teoria/BBDD_SQL_teoría.pdf)|
+| 02 | [Relacionales](./Teoria/ejemplo_relacional.md)|
+| 03 | [Normalización](./Teoria/Normalizacion.md)|
+| 04 | [Queries Avanzadas](./Teoria/AdvancedQueries.md)|
+| 05 | [Joins](./Teoria/Joins.md)|
+| 06 | [Jsql cheat sheet](./Teoria/cheatsheets/sql-cheat-sheet.pdf)|
+| 07 | [JSQL CHEAT SHEET](./Teoria/cheatsheets/SQL_Complete.pdf)|
 
 
-## MONGODB
+## PRÁCTICAS
 
-| Teoría  | Contenido                                                                                                         |
-| ------- | ----------------------------------------------------------------------------------------------------------------- |
-|  |     |
-                           |
+| Teoría | Contenido                                                           |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Práctica 1 | [1-Chinook](./Practica/1-Chinook/Intro_SQL.pdf)|
+| Práctica 2  | [2-Diseño_modelo](./Practica/2-Diseño_modelo/EJERCICIO%20DISEÑO%20BASES%20DE%20DATOS.pdf)|
+| Práctica 3  | [3-Murder_game](./Practica/3-Murder_game/Ejercicio%20SQL%20Murder.pdf)|
+| Práctica 4 | [4-Proyecto](./Practica/4-Proyecto/Proyecto_BBDD.md)|
 
 ---
